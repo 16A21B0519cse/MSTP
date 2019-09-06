@@ -1,0 +1,4 @@
+rno    name  english  maths  total
+swrn1  sri     80      70     150 
+swrn2  sai     60      50     110
+swrn3  prakash 90      90     180
